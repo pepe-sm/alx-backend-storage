@@ -1,0 +1,2 @@
+// in current db, find collectable school and put it in human readable context
+db.school.find().pretty()
